@@ -1,6 +1,6 @@
 site:
   url: https://yuiko-naturbrilian.vercel.app/ # same as `site` in astro.config.mjs
-  title: Rant Blog
+  title: Rant Blog | Natur Brilian - Blog and Site
   subtitle: Blog kedua khusus untuk rant dan lain-lain
   description: Rant Blog | Natur Brilian - Blog and Site
   keywords: blog
